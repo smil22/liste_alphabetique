@@ -1,0 +1,6 @@
+En situation de classe ou à l'université, qu'on soit élève ou étudiant(e), il arrive parfois (surtout quand on est solennellement élu(e) responsable par le peuple) de recevoir comme première tâche de fonction de dresser la redoutable liste de présence.
+Recenser les noms des camarades par ORDRE ALPHABÉTIQUE peut vous amener quelques fois à vous arracher vos cheveux de jeune représentant(e) entre les farces des uns et les noms de familles un peu trop ressemblants des autres.
+Je vous propose ici un petit programme qui exploite la puissance de python en ce qui concerne la manipulation des chaînes de caractères pour dresser cette liste.
+Vous n'avez qu'à entrer les noms et prénoms de vos chers amis et une fois que vous aurez terminé, un fichier nommé "liste.txt" sera créé contenant la liste des noms de vos camarades triés par ordre alphabétique.
+En bonus, le sexe de l'individu vous est demandé pour rajouter une petite statistique sur le pourcentage d'homme et de femme dans l'ensemble.
+Ouvrez votre console et essayez pour voir ce que ça donne !   
